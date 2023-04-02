@@ -1,4 +1,10 @@
-﻿using System;
+﻿
+/**
+ * 
+ *Examinne.cs 
+ * 
+ * 
+ */using System;
 namespace _exam
 {
 	public class Examinee
